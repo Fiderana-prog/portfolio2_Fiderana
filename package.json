@@ -1,0 +1,11 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
